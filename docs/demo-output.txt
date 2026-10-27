@@ -1,0 +1,3 @@
+COMMITTED: event:demo-001 spent: 1
+REPLAY REFUSED: single-use nonce already consumed or refused
+ACCEPTED MOCK-EFFECT RECEIPT: receipt:event:demo-001
